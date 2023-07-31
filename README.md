@@ -29,3 +29,4 @@ return message
 
 
 ## UML Sequence Diagram
+<img src="https://github.com/ihyap/CS361/blob/main/uml%20diagram.jpg">
