@@ -19,7 +19,7 @@ Once you've requested data, the service will return a JSON string in request.jso
 "Oh! You might enjoy Simple Competitive Games with a Non-Hidden Traitor mechanic.
 Look for something with Little Interaction with Other Players and a Long Gameplay."
 ```
-The client webpage would simply need to read and dump the JSON string.
+The client webpage would simply need to read and process the JSON string.
 
 ```python
 with open(json_file, "r") as f:
